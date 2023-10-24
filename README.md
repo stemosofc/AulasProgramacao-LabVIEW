@@ -1,2 +1,2 @@
 # AulasProgramacao-LabVIEW
-Códigos exemplo de cada aula de programação
+Códigos exemplo de cada aula de programação em LabVIEW
